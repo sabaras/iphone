@@ -1,0 +1,15 @@
+/Users/macbook/iphone/steve/steve/bin/Debug/net5.0/steve.deps.json
+/Users/macbook/iphone/steve/steve/bin/Debug/net5.0/steve.runtimeconfig.json
+/Users/macbook/iphone/steve/steve/bin/Debug/net5.0/steve.runtimeconfig.dev.json
+/Users/macbook/iphone/steve/steve/bin/Debug/net5.0/steve.dll
+/Users/macbook/iphone/steve/steve/bin/Debug/net5.0/ref/steve.dll
+/Users/macbook/iphone/steve/steve/bin/Debug/net5.0/steve.pdb
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.csproj.AssemblyReference.cache
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.AssemblyInfoInputs.cache
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.AssemblyInfo.cs
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.csproj.CoreCompileInputs.cache
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.dll
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/ref/steve.dll
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.pdb
+/Users/macbook/iphone/steve/steve/obj/Debug/net5.0/steve.genruntimeconfig.cache
